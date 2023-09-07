@@ -45,3 +45,17 @@ Missouri's culinary scene is diverse, offering a mix of regional specialties and
 
 
 [Mystats](MyStats.md)
+
+
+# Sports Recommendations and Time Commitments
+
+The sports offer a diverse range of physical and mental benefits, making them enjoyable choices for staying active and engaged. The recommended time commitments can be adjusted based on your personal preferences and fitness goals.
+
+---
+
+| Sport         | Recommendation Reason                                      | Average Weekly Hours |
+|---------------|-------------------------------------------------------------|----------------------|
+| Tennis        | Tennis is a great sport for improving cardiovascular health, agility, and hand-eye coordination. It's also social and can be played casually or competitively. | 3-6 hours            |
+| Hiking        | Hiking is an excellent way to connect with nature, relieve stress, and improve overall fitness. You can choose your own pace and explore beautiful landscapes. | 4-8 hours            |
+| Swimming      | Swimming is a full-body workout that's easy on the joints, making it suitable for all ages. It's great for cardiovascular health and toning muscles. | 3-5 hours            |
+| Rock Climbing | Rock climbing is an adventurous sport that challenges both physical and mental strength. It's a fantastic way to build upper-body strength and problem-solving skills. | 3-6 hours            |
