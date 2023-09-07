@@ -85,9 +85,9 @@ Below is a CSS snippet that allows you to truncate text with an ellipsis (...) w
 .truncate-text {
   white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis;
-  /* You can specify a width or max-width for the container here */
+  text-overflow: ellipsis;  
 }
 
+```
 [I found a relevant question on Stack Overflow that might be helpful:](https://stackoverflow.com/questions/75859763/how-can-i-add-custom-css-styles-to-vs-code)
 
