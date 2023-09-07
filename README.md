@@ -59,3 +59,14 @@ The sports offer a diverse range of physical and mental benefits, making them en
 | Hiking        | Hiking is an excellent way to connect with nature, relieve stress, and improve overall fitness. You can choose your own pace and explore beautiful landscapes. | 4-8 hours            |
 | Swimming      | Swimming is a full-body workout that's easy on the joints, making it suitable for all ages. It's great for cardiovascular health and toning muscles. | 3-5 hours            |
 | Rock Climbing | Rock climbing is an adventurous sport that challenges both physical and mental strength. It's a fantastic way to build upper-body strength and problem-solving skills. | 3-6 hours            |
+
+
+# Favorite Quotes by Scientists
+
+In this section, I will share two quotes by scientists that have had a profound impact on me.
+
+---
+
+> *"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."* - **Louis Pasteur**
+
+> *"The important thing is to not stop questioning. Curiosity has its own reason for existing."* - **Albert Einstein**
