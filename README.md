@@ -89,5 +89,5 @@ Below is a CSS snippet that allows you to truncate text with an ellipsis (...) w
 }
 
 ```
-[I found a relevant question on Stack Overflow that might be helpful:](https://stackoverflow.com/questions/75859763/how-can-i-add-custom-css-styles-to-vs-code)
+I found a relevant question on Stack Overflow that might be helpful:[Checkitout](https://stackoverflow.com/questions/75859763/how-can-i-add-custom-css-styles-to-vs-code)
 
