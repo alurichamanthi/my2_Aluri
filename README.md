@@ -41,3 +41,7 @@ These are just a few of the varied activities Missouri has to offer. The state i
 - Missouri Wine: The state is home to numerous wineries, and you can try a variety of local wines, including Norton, Vignoles, and Chambourcin.
 
 Missouri's culinary scene is diverse, offering a mix of regional specialties and comfort food classics that reflect the state's cultural and culinary heritage.
+
+
+
+[Mystats](MyStats.md)
