@@ -70,3 +70,24 @@ In this section, I will share two quotes by scientists that have had a profound 
 > *"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."* - **Louis Pasteur**
 
 > *"The important thing is to not stop questioning. Curiosity has its own reason for existing."* - **Albert Einstein**
+
+
+### Code Fencing
+
+
+
+# CSS Snippet for Truncating Text with Ellipsis
+
+Below is a CSS snippet that allows you to truncate text with an ellipsis (...) when it overflows its container. This snippet is sourced from [CSS-Tricks](https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/).
+
+```css
+/* CSS Snippet */
+.truncate-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* You can specify a width or max-width for the container here */
+}
+
+[I found a relevant question on Stack Overflow that might be helpful:](https://stackoverflow.com/questions/75859763/how-can-i-add-custom-css-styles-to-vs-code)
+
